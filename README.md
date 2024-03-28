@@ -1,5 +1,5 @@
 ### 👋 Hoi!
-I'm not a dev! I'm a phonetician 🗣 who enjoys working with machines and likes automating the hell out of workflows. 🙃
+I'm not a dev! I'm a phonetician 🗣 who enjoys working with machines and likes automating workflows. 🙃
 This is mainly an attempt to keep my code organized and maybe share some tools that *could* be useful to fellow speech scientists. 🤲
 
 ---
